@@ -2,3 +2,6 @@ db.sqlite3
 # ignoring all .txt files
 *txt
 
+# Byte-compiled / cache
+__pycache__/
+
